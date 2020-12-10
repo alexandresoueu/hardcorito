@@ -5,6 +5,8 @@ type Props = {
   title: string
 }
 
+const foo = 'nemo'
+
 export default function Home({ title = 'Nemo swimming' }: Props) {
   return (
     <div className={styles.container}>
