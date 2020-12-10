@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MAIN mainzin 1`] = `
+<main>
+  <h1>
+    Bulbassauro
+  </h1>
+</main>
+`;
