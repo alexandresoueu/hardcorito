@@ -55,7 +55,7 @@ exports[`MAIN Should render heading to Main 1`] = `
   <h1
     class="c2"
   >
-    Desenvolvimento em React com Next
+    React Avançado
   </h1>
   <h2
     class="c3"
