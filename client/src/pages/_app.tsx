@@ -9,6 +9,7 @@ function App({ Component, pageProps }: AppProps) {
       <Head>
         <title>Nemo - Boilerplate</title>
         <link rel="short icon" href="/favicon.ico" />
+        <link rel="manifest" href="/manifest.json" />
         <meta name="description" content="Swimming in the sea..." />
       </Head>
       <GlobalStyles />
