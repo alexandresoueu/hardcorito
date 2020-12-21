@@ -8,7 +8,7 @@ describe('MAIN', () => {
 
     expect(
       screen.getByRole('heading', {
-        name: /rweact Avançado/i
+        name: /react Avançado/i
       })
     ).toBeInTheDocument()
 
