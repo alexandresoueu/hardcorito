@@ -34,6 +34,32 @@
       "type": "component",
       "repeatable": false,
       "component": "page.section-tech"
+    },
+    "sectionConcepts": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.section-concepts"
+    },
+    "sectionModules": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.section-modules"
+    },
+    "sectionCalendar": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.section-calendar"
+    },
+    "pricingBox": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.pricing-box"
+    },
+    "aboutUs": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.about-us",
+      "required": true
     }
   }
 }

@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_page_section_calendars",
+  "info": {
+    "name": "sectionCalendar",
+    "icon": "calendar-alt"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "richtext"
+    }
+  }
+}
